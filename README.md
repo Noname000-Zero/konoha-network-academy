@@ -19,6 +19,8 @@
 Yêu cầu **Node.js 24 trở lên** và npm. Tại thư mục clone:
 
 ```powershell
+git clone https://github.com/Noname000-Zero/konoha-network-academy.git
+cd konoha-network-academy
 npm ci
 npm test
 npm run build
