@@ -1,0 +1,18 @@
+{
+  "name": "konoha-network-academy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test.mjs upgrade.test.mjs cards.test.mjs adaptive.test.mjs visual.test.mjs public-release.test.mjs",
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "audit:public": "node audit-public.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^31.0.1"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "description": "Ứng dụng học Mạng máy tính bằng thẻ hỏi đáp và mô phỏng 2D"
+}

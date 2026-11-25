@@ -1,0 +1,2578 @@
+{
+  "date": "2026-11-23",
+  "scope": "Hình và mô phỏng tự biên soạn, đối chiếu cơ chế và ví dụ trong 4 PDF; không phải ảnh trích nguyên văn.",
+  "dimensionality": "SVG 2D: sơ đồ trình tự, timeline, đồ thị, thanh payload/header, bảng bit. Không có chủ đề hiện tại cần góc nhìn 3D để giải thích tốt hơn.",
+  "coverage": [
+    {
+      "qid": "l0q0",
+      "lesson": "l0",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        5,
+        5
+      ],
+      "type": "protocol",
+      "title": "Protocol: cùng tuân theo quy tắc",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l0q1",
+      "lesson": "l0",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        4,
+        4
+      ],
+      "type": "star",
+      "title": "Topology hình sao",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l1q0",
+      "lesson": "l1",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        8,
+        9
+      ],
+      "type": "access",
+      "title": "Mạng truy cập nối tới biên",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l1q1",
+      "lesson": "l1",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        9,
+        9
+      ],
+      "type": "access",
+      "title": "Mạng truy cập nối tới biên",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l2q0",
+      "lesson": "l2",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        12,
+        13
+      ],
+      "type": "queue",
+      "title": "Router & hàng đợi hữu hạn",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 6,
+      "interactiveFields": [
+        "capacity",
+        "arrivals"
+      ]
+    },
+    {
+      "qid": "l2q1",
+      "lesson": "l2",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        14,
+        14
+      ],
+      "type": "circuit",
+      "title": "Chuyển mạch kênh: TDM/FDM",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l3q0",
+      "lesson": "l3",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        16,
+        16
+      ],
+      "type": "delay",
+      "title": "Bốn loại độ trễ & store-and-forward",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "bits",
+        "rate",
+        "km",
+        "processing",
+        "queue"
+      ]
+    },
+    {
+      "qid": "l3q1",
+      "lesson": "l3",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        16,
+        16
+      ],
+      "type": "delay",
+      "title": "Bốn loại độ trễ & store-and-forward",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": [
+        "bits",
+        "rate",
+        "km",
+        "processing",
+        "queue"
+      ]
+    },
+    {
+      "qid": "l4q0",
+      "lesson": "l4",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        17,
+        17
+      ],
+      "type": "throughput",
+      "title": "Thông lượng ở nút thắt",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "rate0",
+        "rate1",
+        "rate2",
+        "file",
+        "sharing"
+      ]
+    },
+    {
+      "qid": "l4q1",
+      "lesson": "l4",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        13,
+        13
+      ],
+      "type": "queue",
+      "title": "Router & hàng đợi hữu hạn",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 6,
+      "interactiveFields": [
+        "capacity",
+        "arrivals"
+      ]
+    },
+    {
+      "qid": "l5q0",
+      "lesson": "l5",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        20,
+        20
+      ],
+      "type": "encapsulation",
+      "title": "Đóng gói & tháo gói theo tầng",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 7,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l5q1",
+      "lesson": "l5",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        19,
+        19
+      ],
+      "type": "osi",
+      "title": "OSI: bảy tầng",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 7,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l6q0",
+      "lesson": "l6",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        13,
+        14
+      ],
+      "type": "forwarding",
+      "title": "Forwarding: tra bảng tuyến",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l6q1",
+      "lesson": "l6",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        23,
+        23
+      ],
+      "type": "encapsulation",
+      "title": "Đóng gói & tháo gói theo tầng",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 7,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l7q0",
+      "lesson": "l7",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        8,
+        8
+      ],
+      "type": "socket",
+      "title": "Socket: phân kênh theo host & port",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l7q1",
+      "lesson": "l7",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        8,
+        8
+      ],
+      "type": "socket",
+      "title": "Socket: phân kênh theo host & port",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l8q0",
+      "lesson": "l8",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        16,
+        16
+      ],
+      "type": "services",
+      "title": "Ứng dụng chọn dịch vụ giao vận",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l8q1",
+      "lesson": "l8",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        11,
+        11
+      ],
+      "type": "services",
+      "title": "Ứng dụng chọn dịch vụ giao vận",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l9q0",
+      "lesson": "l9",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        22,
+        22
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l9q1",
+      "lesson": "l9",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        22,
+        22
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l10q0",
+      "lesson": "l10",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        35,
+        35
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l10q1",
+      "lesson": "l10",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        27,
+        29
+      ],
+      "type": "http",
+      "title": "HTTP: đếm kết nối & RTT",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 3,
+      "interactiveFields": [
+        "objects",
+        "rtt",
+        "tx"
+      ]
+    },
+    {
+      "qid": "l11q0",
+      "lesson": "l11",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        40,
+        41
+      ],
+      "type": "ftp",
+      "title": "FTP: hai kết nối",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 3,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l11q1",
+      "lesson": "l11",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        42,
+        42
+      ],
+      "type": "ftp",
+      "title": "FTP: hai kết nối",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 3,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l12q0",
+      "lesson": "l12",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        45,
+        46
+      ],
+      "type": "email",
+      "title": "Email: chuyển và đọc thư",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l12q1",
+      "lesson": "l12",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        49,
+        49
+      ],
+      "type": "email",
+      "title": "Email: chuyển và đọc thư",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l13q0",
+      "lesson": "l13",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        51,
+        52
+      ],
+      "type": "dns",
+      "title": "DNS: tra tên thành địa chỉ",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 8,
+      "interactiveFields": [
+        "cache"
+      ]
+    },
+    {
+      "qid": "l13q1",
+      "lesson": "l13",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        53,
+        53
+      ],
+      "type": "dns",
+      "title": "DNS: tra tên thành địa chỉ",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 8,
+      "interactiveFields": [
+        "cache"
+      ]
+    },
+    {
+      "qid": "l14q0",
+      "lesson": "l14",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        12,
+        12
+      ],
+      "type": "socket",
+      "title": "Socket: phân kênh theo host & port",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l14q1",
+      "lesson": "l14",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        14,
+        14
+      ],
+      "type": "socket",
+      "title": "Socket: phân kênh theo host & port",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l15q0",
+      "lesson": "l15",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        17,
+        18
+      ],
+      "type": "header",
+      "title": "Header & payload UDP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 2,
+      "interactiveFields": [
+        "total"
+      ]
+    },
+    {
+      "qid": "l15q1",
+      "lesson": "l15",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        18,
+        18
+      ],
+      "type": "header",
+      "title": "Header & payload UDP",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 2,
+      "interactiveFields": [
+        "total"
+      ]
+    },
+    {
+      "qid": "l16q0",
+      "lesson": "l16",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        19,
+        20
+      ],
+      "type": "checksum",
+      "title": "Checksum: cộng vòng & bù một",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 7,
+      "interactiveFields": [
+        "words"
+      ]
+    },
+    {
+      "qid": "l16q1",
+      "lesson": "l16",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        20,
+        20
+      ],
+      "type": "checksum",
+      "title": "Checksum: cộng vòng & bù một",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 7,
+      "interactiveFields": [
+        "words"
+      ]
+    },
+    {
+      "qid": "l17q0",
+      "lesson": "l17",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        33,
+        35
+      ],
+      "type": "tcp",
+      "title": "TCP: bắt tay, Seq/ACK & truyền lại",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 11,
+      "interactiveFields": [
+        "start",
+        "len",
+        "loss",
+        "recovery"
+      ]
+    },
+    {
+      "qid": "l17q1",
+      "lesson": "l17",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        31,
+        31
+      ],
+      "type": "tcp",
+      "title": "TCP: bắt tay, Seq/ACK & truyền lại",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 10,
+      "interactiveFields": [
+        "start",
+        "len",
+        "loss",
+        "recovery"
+      ]
+    },
+    {
+      "qid": "l18q0",
+      "lesson": "l18",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        43,
+        45
+      ],
+      "type": "arq",
+      "title": "Stop-and-wait · Go-Back-N · Selective Repeat",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 15,
+      "interactiveFields": [
+        "protocol",
+        "loss",
+        "tx",
+        "rtt"
+      ]
+    },
+    {
+      "qid": "l18q1",
+      "lesson": "l18",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        36,
+        39
+      ],
+      "type": "arq",
+      "title": "Stop-and-wait · Go-Back-N · Selective Repeat",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 15,
+      "interactiveFields": [
+        "protocol",
+        "loss",
+        "tx",
+        "rtt"
+      ]
+    },
+    {
+      "qid": "l19q0",
+      "lesson": "l19",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        51,
+        52
+      ],
+      "type": "tcp",
+      "title": "TCP: bắt tay, Seq/ACK & truyền lại",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 5,
+      "interactiveFields": [
+        "start",
+        "len",
+        "loss",
+        "recovery"
+      ]
+    },
+    {
+      "qid": "l19q1",
+      "lesson": "l19",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        54,
+        54
+      ],
+      "type": "tcp",
+      "title": "TCP: bắt tay, Seq/ACK & truyền lại",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 10,
+      "interactiveFields": [
+        "start",
+        "len",
+        "loss",
+        "recovery"
+      ]
+    },
+    {
+      "qid": "l20q0",
+      "lesson": "l20",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        56,
+        57
+      ],
+      "type": "window",
+      "title": "TCP: rwnd, cwnd & dữ liệu đang bay",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 3,
+      "interactiveFields": [
+        "buffer",
+        "used",
+        "cwnd",
+        "flight"
+      ]
+    },
+    {
+      "qid": "l20q1",
+      "lesson": "l20",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        60,
+        61
+      ],
+      "type": "window",
+      "title": "TCP: rwnd, cwnd & dữ liệu đang bay",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 3,
+      "interactiveFields": [
+        "buffer",
+        "used",
+        "cwnd",
+        "flight"
+      ]
+    },
+    {
+      "qid": "l21q0",
+      "lesson": "l21",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        13,
+        13
+      ],
+      "type": "addressClass",
+      "title": "Phân lớp lịch sử, private & loopback",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l21q1",
+      "lesson": "l21",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        18,
+        19
+      ],
+      "type": "subnet",
+      "title": "IPv4: network · subnet · host",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "ip",
+        "parent",
+        "prefix"
+      ]
+    },
+    {
+      "qid": "l22q0",
+      "lesson": "l22",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        24,
+        27
+      ],
+      "type": "subnet",
+      "title": "IPv4: network · subnet · host",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "ip",
+        "parent",
+        "prefix"
+      ]
+    },
+    {
+      "qid": "l22q1",
+      "lesson": "l22",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        27,
+        30
+      ],
+      "type": "subnet",
+      "title": "IPv4: network · subnet · host",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "ip",
+        "parent",
+        "prefix"
+      ]
+    },
+    {
+      "qid": "l23q0",
+      "lesson": "l23",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        39,
+        40
+      ],
+      "type": "dhcp",
+      "title": "DHCP: Discover · Offer · Request · ACK",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l23q1",
+      "lesson": "l23",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        39,
+        39
+      ],
+      "type": "dhcp",
+      "title": "DHCP: Discover · Offer · Request · ACK",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l24q0",
+      "lesson": "l24",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        48,
+        48
+      ],
+      "type": "fragment",
+      "title": "Phân mảnh IPv4 theo MTU",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": [
+        "total",
+        "mtu",
+        "header"
+      ]
+    },
+    {
+      "qid": "l24q1",
+      "lesson": "l24",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        47,
+        47
+      ],
+      "type": "fragment",
+      "title": "Phân mảnh IPv4 theo MTU",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": [
+        "total",
+        "mtu",
+        "header"
+      ]
+    },
+    {
+      "qid": "l25q0",
+      "lesson": "l25",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        54,
+        54
+      ],
+      "type": "ipv6",
+      "title": "IPv6: đọc header & vai trò",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l25q1",
+      "lesson": "l25",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        50,
+        50
+      ],
+      "type": "icmp",
+      "title": "ICMP: báo lỗi và Echo",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l26q0",
+      "lesson": "l26",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        4,
+        4
+      ],
+      "type": "forwarding",
+      "title": "Forwarding: tra bảng tuyến",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l26q1",
+      "lesson": "l26",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        68,
+        69
+      ],
+      "type": "dijkstra",
+      "title": "Dijkstra: chốt nút & relax cạnh",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 6,
+      "interactiveFields": [
+        "edges",
+        "start",
+        "target"
+      ]
+    },
+    {
+      "qid": "l27q0",
+      "lesson": "l27",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        81,
+        81
+      ],
+      "type": "internet",
+      "title": "Internet: trong AS và giữa AS",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "l27q1",
+      "lesson": "l27",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        75,
+        76
+      ],
+      "type": "dv",
+      "title": "Distance Vector: cập nhật Bellman-Ford",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": [
+        "edges",
+        "start",
+        "target"
+      ]
+    },
+    {
+      "qid": "extra-q0",
+      "lesson": "x1a",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        5,
+        5
+      ],
+      "type": "topology",
+      "title": "Phân biệt phạm vi, topology và môi trường",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q1",
+      "lesson": "x1a",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        4,
+        4
+      ],
+      "type": "topology",
+      "title": "Phân biệt phạm vi, topology và môi trường",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q2",
+      "lesson": "x1a",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        5,
+        6
+      ],
+      "type": "topology",
+      "title": "Phân biệt phạm vi, topology và môi trường",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q3",
+      "lesson": "x1b",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        9,
+        9
+      ],
+      "type": "access",
+      "title": "Mạng truy cập nối tới biên",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q4",
+      "lesson": "x1b",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        10,
+        10
+      ],
+      "type": "access",
+      "title": "Mạng truy cập nối tới biên",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q5",
+      "lesson": "x1b",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        11,
+        11
+      ],
+      "type": "access",
+      "title": "Mạng truy cập nối tới biên",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q6",
+      "lesson": "x1c",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        7,
+        7
+      ],
+      "type": "internet",
+      "title": "Internet: trong AS và giữa AS",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q7",
+      "lesson": "x1c",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        15,
+        15
+      ],
+      "type": "internet",
+      "title": "Internet: trong AS và giữa AS",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q8",
+      "lesson": "l2",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        14,
+        14
+      ],
+      "type": "circuit",
+      "title": "Chuyển mạch kênh: TDM/FDM",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q9",
+      "lesson": "x1d",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        16,
+        16
+      ],
+      "type": "delay",
+      "title": "Bốn loại độ trễ & store-and-forward",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "bits",
+        "rate",
+        "km",
+        "processing",
+        "queue"
+      ]
+    },
+    {
+      "qid": "extra-q10",
+      "lesson": "x1d",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        12,
+        13
+      ],
+      "type": "delay",
+      "title": "Bốn loại độ trễ & store-and-forward",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 4,
+      "interactiveFields": [
+        "bits",
+        "rate",
+        "km",
+        "processing",
+        "queue"
+      ]
+    },
+    {
+      "qid": "extra-q11",
+      "lesson": "x1d",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        26,
+        26
+      ],
+      "type": "delay",
+      "title": "Bốn loại độ trễ & store-and-forward",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 4,
+      "interactiveFields": [
+        "bits",
+        "rate",
+        "km",
+        "processing",
+        "queue"
+      ]
+    },
+    {
+      "qid": "extra-q12",
+      "lesson": "x1d",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        16,
+        16
+      ],
+      "type": "throughput",
+      "title": "Thông lượng ở nút thắt",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "rate0",
+        "file",
+        "sharing"
+      ]
+    },
+    {
+      "qid": "extra-q13",
+      "lesson": "l4",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        27,
+        27
+      ],
+      "type": "throughput",
+      "title": "Thông lượng ở nút thắt",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "rate0",
+        "rate1",
+        "rate2",
+        "file",
+        "sharing"
+      ]
+    },
+    {
+      "qid": "extra-q14",
+      "lesson": "l5",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        20,
+        23
+      ],
+      "type": "encapsulation",
+      "title": "Đóng gói & tháo gói theo tầng",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 7,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q15",
+      "lesson": "x1c",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        24,
+        24
+      ],
+      "type": "internet",
+      "title": "Internet: trong AS và giữa AS",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q16",
+      "lesson": "l7",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        6,
+        6
+      ],
+      "type": "socket",
+      "title": "Socket: phân kênh theo host & port",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q17",
+      "lesson": "l8",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        12,
+        12
+      ],
+      "type": "services",
+      "title": "Ứng dụng chọn dịch vụ giao vận",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q18",
+      "lesson": "l8",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        13,
+        13
+      ],
+      "type": "services",
+      "title": "Ứng dụng chọn dịch vụ giao vận",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q19",
+      "lesson": "x2a",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        30,
+        32
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q20",
+      "lesson": "x2a",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        61,
+        61
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q21",
+      "lesson": "x2a",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        33,
+        61
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q22",
+      "lesson": "x2a",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        60,
+        60
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q23",
+      "lesson": "l10",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        35,
+        35
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q24",
+      "lesson": "x2b",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        37,
+        38
+      ],
+      "type": "cache",
+      "title": "Web cache: hit và miss",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q25",
+      "lesson": "x2b",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        36,
+        36
+      ],
+      "type": "cache",
+      "title": "Web cache: hit và miss",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q26",
+      "lesson": "x2c",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        42,
+        42
+      ],
+      "type": "ftp",
+      "title": "FTP: hai kết nối",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 3,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q27",
+      "lesson": "x2c",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        45,
+        47
+      ],
+      "type": "email",
+      "title": "Email: chuyển và đọc thư",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q28",
+      "lesson": "x2c",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        48,
+        48
+      ],
+      "type": "email",
+      "title": "Email: chuyển và đọc thư",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q29",
+      "lesson": "l13",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        55,
+        55
+      ],
+      "type": "dns",
+      "title": "DNS: tra tên thành địa chỉ",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 8,
+      "interactiveFields": [
+        "cache"
+      ]
+    },
+    {
+      "qid": "extra-q30",
+      "lesson": "l10",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        27,
+        29
+      ],
+      "type": "http",
+      "title": "HTTP: đếm kết nối & RTT",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "objects",
+        "rtt",
+        "tx"
+      ]
+    },
+    {
+      "qid": "extra-q31",
+      "lesson": "l10",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        28,
+        29
+      ],
+      "type": "http",
+      "title": "HTTP: đếm kết nối & RTT",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "objects",
+        "rtt",
+        "tx"
+      ]
+    },
+    {
+      "qid": "extra-q32",
+      "lesson": "l14",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        12,
+        12
+      ],
+      "type": "socket",
+      "title": "Socket: phân kênh theo host & port",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q33",
+      "lesson": "l15",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        24,
+        25
+      ],
+      "type": "header",
+      "title": "Header & payload UDP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 2,
+      "interactiveFields": [
+        "total"
+      ]
+    },
+    {
+      "qid": "extra-q34",
+      "lesson": "l16",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        19,
+        20
+      ],
+      "type": "checksum",
+      "title": "Checksum: cộng vòng & bù một",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 5,
+      "interactiveFields": [
+        "words"
+      ]
+    },
+    {
+      "qid": "extra-q35",
+      "lesson": "l16",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        22,
+        23
+      ],
+      "type": "bits",
+      "title": "Một byte: nhị phân, hex & thập phân",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 1,
+      "interactiveFields": [
+        "value"
+      ]
+    },
+    {
+      "qid": "extra-q36",
+      "lesson": "l17",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        30,
+        30
+      ],
+      "type": "rdtNak",
+      "title": "rdt2.0: lỗi bit và NAK",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q37",
+      "lesson": "l17",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        32,
+        32
+      ],
+      "type": "rdtAck",
+      "title": "rdt2.2: dùng ACK thay NAK",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 6,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q38",
+      "lesson": "l17",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        35,
+        35
+      ],
+      "type": "tcp",
+      "title": "TCP: bắt tay, Seq/ACK & truyền lại",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 11,
+      "interactiveFields": [
+        "start",
+        "len",
+        "loss",
+        "recovery"
+      ]
+    },
+    {
+      "qid": "extra-q39",
+      "lesson": "l18",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        37,
+        39
+      ],
+      "type": "arq",
+      "title": "Stop-and-wait · Go-Back-N · Selective Repeat",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 14,
+      "interactiveFields": [
+        "protocol",
+        "loss",
+        "tx",
+        "rtt"
+      ]
+    },
+    {
+      "qid": "extra-q40",
+      "lesson": "x3b",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        40,
+        42
+      ],
+      "type": "arq",
+      "title": "Stop-and-wait · Go-Back-N · Selective Repeat",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 24,
+      "interactiveFields": [
+        "protocol",
+        "loss",
+        "tx",
+        "rtt"
+      ]
+    },
+    {
+      "qid": "extra-q41",
+      "lesson": "x3b",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        43,
+        45
+      ],
+      "type": "arq",
+      "title": "Stop-and-wait · Go-Back-N · Selective Repeat",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 15,
+      "interactiveFields": [
+        "protocol",
+        "loss",
+        "tx",
+        "rtt"
+      ]
+    },
+    {
+      "qid": "extra-q42",
+      "lesson": "x3a",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        50,
+        50
+      ],
+      "type": "header",
+      "title": "Header & payload TCP",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 2,
+      "interactiveFields": [
+        "total"
+      ]
+    },
+    {
+      "qid": "extra-q43",
+      "lesson": "x3a",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        49,
+        51
+      ],
+      "type": "segments",
+      "title": "TCP: chia dữ liệu theo MSS",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 1,
+      "interactiveFields": [
+        "total",
+        "mss"
+      ]
+    },
+    {
+      "qid": "extra-q44",
+      "lesson": "x3c",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        56,
+        57
+      ],
+      "type": "window",
+      "title": "TCP: rwnd, cwnd & dữ liệu đang bay",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "buffer",
+        "used",
+        "cwnd",
+        "flight"
+      ]
+    },
+    {
+      "qid": "extra-q45",
+      "lesson": "x3c",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        57,
+        58
+      ],
+      "type": "window",
+      "title": "TCP: rwnd, cwnd & dữ liệu đang bay",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "buffer",
+        "used",
+        "cwnd",
+        "flight"
+      ]
+    },
+    {
+      "qid": "extra-q46",
+      "lesson": "x3c",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        64,
+        65
+      ],
+      "type": "congestion",
+      "title": "TCP cổ điển: đọc cwnd theo RTT",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 2,
+      "interactiveFields": [
+        "cwnd"
+      ]
+    },
+    {
+      "qid": "extra-q47",
+      "lesson": "l19",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        52,
+        52
+      ],
+      "type": "tcp",
+      "title": "TCP: bắt tay, Seq/ACK & truyền lại",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 5,
+      "interactiveFields": [
+        "start",
+        "len",
+        "loss",
+        "recovery"
+      ]
+    },
+    {
+      "qid": "extra-q48",
+      "lesson": "x4a",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        12,
+        12
+      ],
+      "type": "addressClass",
+      "title": "Phân lớp lịch sử, private & loopback",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q49",
+      "lesson": "x4a",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        14,
+        14
+      ],
+      "type": "addressClass",
+      "title": "Phân lớp lịch sử, private & loopback",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q50",
+      "lesson": "x4a",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        18,
+        20
+      ],
+      "type": "subnet",
+      "title": "IPv4: network · subnet · host",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "ip",
+        "parent",
+        "prefix"
+      ]
+    },
+    {
+      "qid": "extra-q51",
+      "lesson": "l21",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        20,
+        20
+      ],
+      "type": "subnet",
+      "title": "IPv4: network · subnet · host",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "ip",
+        "parent",
+        "prefix"
+      ]
+    },
+    {
+      "qid": "extra-q52",
+      "lesson": "l21",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        20,
+        20
+      ],
+      "type": "subnet",
+      "title": "IPv4: network · subnet · host",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "ip",
+        "parent",
+        "prefix"
+      ]
+    },
+    {
+      "qid": "extra-q53",
+      "lesson": "l23",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        41,
+        41
+      ],
+      "type": "subnet",
+      "title": "IPv4: network · subnet · host",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "ip",
+        "parent",
+        "prefix"
+      ]
+    },
+    {
+      "qid": "extra-q54",
+      "lesson": "l23",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        39,
+        40
+      ],
+      "type": "dhcp",
+      "title": "DHCP: Discover · Offer · Request · ACK",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q55",
+      "lesson": "x4b",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        45,
+        45
+      ],
+      "type": "header",
+      "title": "Header & payload IPv4",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 2,
+      "interactiveFields": [
+        "total"
+      ]
+    },
+    {
+      "qid": "extra-q56",
+      "lesson": "x4b",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        45,
+        46
+      ],
+      "type": "header",
+      "title": "Header & payload IPv4",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 2,
+      "interactiveFields": [
+        "total"
+      ]
+    },
+    {
+      "qid": "extra-q57",
+      "lesson": "x4b",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        45,
+        45
+      ],
+      "type": "ttl",
+      "title": "TTL: dừng gói hết hạn",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q58",
+      "lesson": "l24",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        47,
+        48
+      ],
+      "type": "fragment",
+      "title": "Phân mảnh IPv4 theo MTU",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": [
+        "total",
+        "mtu",
+        "header"
+      ]
+    },
+    {
+      "qid": "extra-q59",
+      "lesson": "l25",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        55,
+        55
+      ],
+      "type": "ipv6",
+      "title": "IPv6: đọc header & vai trò",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q60",
+      "lesson": "x4b",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        54,
+        54
+      ],
+      "type": "ipv6",
+      "title": "IPv6: đọc header & vai trò",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "extra-q61",
+      "lesson": "x4c",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        63,
+        63
+      ],
+      "type": "dv",
+      "title": "Distance Vector: cập nhật Bellman-Ford",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": [
+        "edges",
+        "start",
+        "target"
+      ]
+    },
+    {
+      "qid": "extra-q62",
+      "lesson": "x4c",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        73,
+        74
+      ],
+      "type": "dv",
+      "title": "Distance Vector: cập nhật Bellman-Ford",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 5,
+      "interactiveFields": [
+        "edges",
+        "start",
+        "target"
+      ]
+    },
+    {
+      "qid": "extra-q63",
+      "lesson": "x4c",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        81,
+        81
+      ],
+      "type": "internet",
+      "title": "Internet: trong AS và giữa AS",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "v3-1-1",
+      "lesson": "z1",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        16,
+        16
+      ],
+      "type": "bits",
+      "title": "Một byte: nhị phân, hex & thập phân",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 1,
+      "interactiveFields": [
+        "value"
+      ]
+    },
+    {
+      "qid": "v3-1-2",
+      "lesson": "x1d",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        16,
+        16
+      ],
+      "type": "queue",
+      "title": "Router & hàng đợi hữu hạn",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 6,
+      "interactiveFields": [
+        "capacity",
+        "arrivals"
+      ]
+    },
+    {
+      "qid": "v3-1-3",
+      "lesson": "z1",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        26,
+        26
+      ],
+      "type": "delay",
+      "title": "Bốn loại độ trễ & store-and-forward",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 5,
+      "interactiveFields": [
+        "bits",
+        "rate",
+        "processing",
+        "queue"
+      ]
+    },
+    {
+      "qid": "v3-1-4",
+      "lesson": "l4",
+      "chapter": 1,
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        17,
+        27
+      ],
+      "type": "throughput",
+      "title": "Thông lượng ở nút thắt",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "rate0",
+        "rate1",
+        "rate2",
+        "file",
+        "sharing"
+      ]
+    },
+    {
+      "qid": "v3-2-1",
+      "lesson": "z2",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        30,
+        31
+      ],
+      "type": "httpHeader",
+      "title": "Đọc cấu trúc HTTP",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 5,
+      "interactiveFields": []
+    },
+    {
+      "qid": "v3-2-2",
+      "lesson": "z2",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        27,
+        29
+      ],
+      "type": "http",
+      "title": "HTTP: đếm kết nối & RTT",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 3,
+      "interactiveFields": [
+        "objects",
+        "rtt",
+        "tx"
+      ]
+    },
+    {
+      "qid": "v3-2-3",
+      "lesson": "z2",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        27,
+        29
+      ],
+      "type": "http",
+      "title": "HTTP: đếm kết nối & RTT",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 3,
+      "interactiveFields": [
+        "objects",
+        "rtt",
+        "tx"
+      ]
+    },
+    {
+      "qid": "v3-2-4",
+      "lesson": "l13",
+      "chapter": 2,
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        55,
+        56
+      ],
+      "type": "dns",
+      "title": "DNS: tra tên thành địa chỉ",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 2,
+      "interactiveFields": [
+        "cache"
+      ]
+    },
+    {
+      "qid": "v3-3-1",
+      "lesson": "z3",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        22,
+        22
+      ],
+      "type": "header",
+      "title": "Header & payload UDP",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 2,
+      "interactiveFields": [
+        "total"
+      ]
+    },
+    {
+      "qid": "v3-3-2",
+      "lesson": "l17",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        35,
+        35
+      ],
+      "type": "tcp",
+      "title": "TCP: bắt tay, Seq/ACK & truyền lại",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 11,
+      "interactiveFields": [
+        "start",
+        "len",
+        "loss",
+        "recovery"
+      ]
+    },
+    {
+      "qid": "v3-3-3",
+      "lesson": "l16",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        22,
+        22
+      ],
+      "type": "checksum",
+      "title": "Checksum: cộng vòng & bù một",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 7,
+      "interactiveFields": [
+        "words"
+      ]
+    },
+    {
+      "qid": "v3-3-4",
+      "lesson": "z3",
+      "chapter": 3,
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        51,
+        58
+      ],
+      "type": "tcp",
+      "title": "TCP: bắt tay, Seq/ACK & truyền lại",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 5,
+      "interactiveFields": [
+        "start",
+        "len",
+        "loss",
+        "recovery"
+      ]
+    },
+    {
+      "qid": "v3-4-1",
+      "lesson": "z4",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        50,
+        50
+      ],
+      "type": "icmp",
+      "title": "ICMP: báo lỗi và Echo",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "v3-4-2",
+      "lesson": "x4c",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        59,
+        60
+      ],
+      "type": "forwarding",
+      "title": "Forwarding: tra bảng tuyến",
+      "usesDeclaredQuestionData": false,
+      "exampleParameters": true,
+      "steps": 4,
+      "interactiveFields": []
+    },
+    {
+      "qid": "v3-4-3",
+      "lesson": "z4",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        84,
+        84
+      ],
+      "type": "fragment",
+      "title": "Phân mảnh IPv4 theo MTU",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 9,
+      "interactiveFields": [
+        "total",
+        "mtu",
+        "header"
+      ]
+    },
+    {
+      "qid": "v3-4-4",
+      "lesson": "l27",
+      "chapter": 4,
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        76,
+        79
+      ],
+      "type": "dv",
+      "title": "Distance Vector: cập nhật Bellman-Ford",
+      "usesDeclaredQuestionData": true,
+      "exampleParameters": false,
+      "steps": 5,
+      "interactiveFields": [
+        "edges",
+        "start",
+        "target"
+      ]
+    }
+  ],
+  "fixedTransfers": [
+    "l3q0",
+    "l15q1",
+    "l19q0",
+    "l21q1",
+    "l22q0",
+    "l22q1",
+    "extra-q9",
+    "extra-q10",
+    "extra-q11",
+    "extra-q12",
+    "extra-q13",
+    "extra-q30",
+    "extra-q31",
+    "extra-q34",
+    "extra-q35",
+    "extra-q39",
+    "extra-q42",
+    "extra-q43",
+    "extra-q44",
+    "extra-q45",
+    "extra-q46",
+    "extra-q50",
+    "extra-q51",
+    "extra-q52",
+    "extra-q53",
+    "extra-q55",
+    "extra-q56",
+    "extra-q62"
+  ],
+  "generatedFamilies": [
+    {
+      "id": "delay",
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        12,
+        17
+      ],
+      "seedPassThrough": true
+    },
+    {
+      "id": "throughput",
+      "source": "MMT-Chuong1-v2.pdf",
+      "pages": [
+        17,
+        27
+      ],
+      "seedPassThrough": true
+    },
+    {
+      "id": "http",
+      "source": "MMT-Chuong2-v2.pdf",
+      "pages": [
+        27,
+        29
+      ],
+      "seedPassThrough": true
+    },
+    {
+      "id": "checksum",
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        19,
+        22
+      ],
+      "seedPassThrough": true
+    },
+    {
+      "id": "tcpAck",
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        51,
+        52
+      ],
+      "seedPassThrough": true
+    },
+    {
+      "id": "tcpWindow",
+      "source": "MMT-Chuong3-v2.pdf",
+      "pages": [
+        56,
+        58
+      ],
+      "seedPassThrough": true
+    },
+    {
+      "id": "subnet",
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        18,
+        37
+      ],
+      "seedPassThrough": true
+    },
+    {
+      "id": "fragment",
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        47,
+        48
+      ],
+      "seedPassThrough": true
+    },
+    {
+      "id": "routing",
+      "source": "MMT-Chuong4-V2.pdf",
+      "pages": [
+        65,
+        79
+      ],
+      "seedPassThrough": true
+    }
+  ],
+  "limits": [
+    "Mô hình DV đồng bộ trên đồ thị tĩnh; chưa mô phỏng count-to-infinity/poison reverse khi mất liên kết.",
+    "TCP cổ điển và sequence không wrap; không mô phỏng SACK, CUBIC/BBR hay mọi trạng thái RFC.",
+    "HTTP/1.x tuần tự, không DNS/TLS/cache trong bài RTT; không mô phỏng HTTP/2–3.",
+    "Độ dài header trong sơ đồ thanh và tốc độ chạy được điều chỉnh để đọc; trục timeline độ trễ tính theo ms thực.",
+    "Các sơ đồ khái niệm dùng dữ kiện bổ sung khi đề không cho số; được ghi nhãn.",
+    "Không kiểm tra trực quan trình duyệt vì Computer Use native pipe unavailable; chưa xác minh viewport 1366/375, cảm ứng hoặc trình đọc màn hình thật."
+  ]
+}
